@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: aQPU Numerical Simulation
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Florian
+    family-names: Meier
+identifiers:
+  - type: url
+    value: 'https://github.com/aspects-quantum/aqpu'
+repository-code: 'https://github.com/aspects-quantum/aqpu'
